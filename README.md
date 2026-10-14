@@ -133,7 +133,7 @@ npm run start
 
 ## 🔗 روابط التسليم (Submission Links)
 
-- **رابط مستودع الكود (GitHub):** `https://github.com/engsultan/it-legend-courses`
+- **رابط مستودع الكود (GitHub):** [https://github.com/Sultanaladawi/it-legend-courses](https://github.com/Sultanaladawi/it-legend-courses)
 - **رابط المعاينة الحية (Live Demo):** سيتم نشره على Vercel بنقرة واحدة.
 
 ---
